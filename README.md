@@ -22,6 +22,7 @@ My work combines engineering design, numerical simulation, scientific programmin
 - Conceptual Design
 - Performing Engineering Calculations
 - Performing Analysis (eg. FEA & CFD)
+- Detail Design
 - Technical Drawings & GD&T
 - Design for Manufacturing (DFM)
 
