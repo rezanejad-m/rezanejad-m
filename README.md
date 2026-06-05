@@ -4,7 +4,7 @@ Mechanical Design, Simulation & Computational Engineering Specialist
 
 I am a Mechanical Engineer with experience in mechanical systems design, product development, finite element analysis (FEA), computational mechanics, and materials engineering.
 
-My work combines engineering design, numerical simulation, scientific programming, and research to solve complex industrial and academic challenges. I have worked on projects involving vehicle systems design, structural simulations, composite materials, computational homogenization, optimization, and engineering software development.
+My work combines engineering design, numerical simulation, scientific programming, and research to solve complex industrial and academic challenges. I have worked on projects involving vehicle systems design, structural simulations, computational homogenization, optimization, and engineering software development.
 
 ## What I Do
 
@@ -19,32 +19,25 @@ My work combines engineering design, numerical simulation, scientific programmin
 ## Areas of Experience
 
 ### Mechanical Design
-- Mechanical Systems Design
+- Conceptual Design
+- Performing Engineering Calculations
+- Performing Analysis (eg. FEA & CFD)
 - Technical Drawings & GD&T
 - Design for Manufacturing (DFM)
-- Tolerance Analysis
-- Vehicle Subsystems Design
 
 ### Simulation & Analysis
-- Abaqus
-- ANSYS
-- Adams Car
-- Tosca Optimization
-- XFlow CFD
+- FEA
+- CFD
 
-### Scientific Computing
-- MATLAB
-- Python
-- Numerical Methods
-- Finite Element Programming
-- Engineering Automation
+### AI & Data-Driven Engineering
+- Machine Learning for Engineering Applications
+- Deep Learning
+- Materials Informatics
+- AI-Assisted Material Modeling
+- Engineering Data Analytics
+- Dataset Generation & Preprocessing
+- AI-Driven Property Prediction
 
-### Materials Engineering
-- Composite Materials
-- Micromechanics
-- Homogenization
-- Material Modeling
-- Manufacturing Processes
 
 ## Featured Projects
 
